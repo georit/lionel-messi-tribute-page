@@ -309,6 +309,23 @@ footer {
     margin-left: auto;
 }
 
+.insta, .fb, .tw {
+  color: #8b8b8b;
+  margin-right: 5px;
+}
+
+.insta:hover  {
+  color: #be79df;
+}
+
+.fb:hover {
+  color: #0779e4;
+}
+
+.tw:hover {
+  color: #5fdde5;
+}
+
 #footer-nav li, #social-media li {
     list-style-type: none;
     margin: 0 10px;
