@@ -1,0 +1,1 @@
+This was a short but fun project. I learned a great deal of HTML and CSS and polished up my researching skills. From drawing the layout of the page to coding it, I had lots of fun and learned a great deal!
